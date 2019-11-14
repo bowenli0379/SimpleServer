@@ -52,3 +52,5 @@ public class SocketClient {
        socket.close();
     }
 }
+
+//http://www.jianshu.com/p/ae5e1cee5b04
